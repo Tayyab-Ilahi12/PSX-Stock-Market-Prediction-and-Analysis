@@ -30,11 +30,10 @@ application, which will demonstrate all the mentioned modules. The application w
 the end user to better analyse the stock’s future behavior, manage financial portfolios,
 observe technical indicators of a stock and make good financial decisions.
 
-### Explaination
+#### For prediction we are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
 
--> We are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
--> Technical Analysis of historical data using Techincal indicators and 
-   Financial Portfolio Optmization using Efficient Frontier Markowitz.
--> Model Results and Accuracies are in relevant Jupyter Notebook.
+#### Technical Analysis of historical data using Techincal indicators and Financial Portfolio Optmization using Efficient Frontier Markowitz.
 
-### We have a full working Application in Django that implements our whole project in BackEnd. 
+#### Model Results and Accuracies are in relevant Jupyter Notebook.
+
+#### We have a full working Application in Django that implements our whole project in BackEnd. 
