@@ -1,15 +1,13 @@
 # Stock Market Analysis And Prediction
 A Final Year Project on Predicting Pakistan Stock Exchange using Time Series and Deep Learning. Financial Portfolio Optimization and Technical Analysis.
 
-#### -> For prediction we are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
+#### 1 For prediction we are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
 
-#### -> Technical Analysis of historical data using Techincal indicators and Financial Portfolio Optmization using Efficient Frontier Markowitz.
+#### 2 Technical Analysis of historical data using Techincal indicators and Financial Portfolio Optmization using Efficient Frontier Markowitz.
 
-#### -> Model Results and Accuracies are in relevant Jupyter Notebook.
+#### 3 Model Results and Accuracies are in relevant Jupyter Notebook.
 
-#### -> We have a full working Application in Django that implements our whole project in BackEnd. 
-
-
+#### 4 We have a full working Application in Django that implements our whole project in BackEnd. 
 
 ### Abstract
 
