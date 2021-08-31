@@ -1,4 +1,4 @@
-# PSX-Stock-Market-Prediction-and-Analysis
+# Stock Market Analysis And Prediction
 A Final Year Project on Predicting Pakistan Stock Exchange using Time Series and Deep Learning. Financial Portfolio Optimization and Technical Analysis.
 
 #### -> For prediction we are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
