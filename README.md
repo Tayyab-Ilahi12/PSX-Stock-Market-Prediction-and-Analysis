@@ -1,5 +1,15 @@
 # PSX-Stock-Market-Prediction-and-Analysis
-A Final Year Project on Predicting Pakistan Stock Exchange using Time Series and Deep Learning. Financial Portfolio Optimization and Technical Analysis
+A Final Year Project on Predicting Pakistan Stock Exchange using Time Series and Deep Learning. Financial Portfolio Optimization and Technical Analysis.
+
+#### -> For prediction we are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
+
+#### -> Technical Analysis of historical data using Techincal indicators and Financial Portfolio Optmization using Efficient Frontier Markowitz.
+
+#### -> Model Results and Accuracies are in relevant Jupyter Notebook.
+
+#### -> We have a full working Application in Django that implements our whole project in BackEnd. 
+
+
 
 ### Abstract
 
@@ -29,11 +39,3 @@ information related to stock’s behaviour. With the mentioned results, we devel
 application, which will demonstrate all the mentioned modules. The application will help
 the end user to better analyse the stock’s future behavior, manage financial portfolios,
 observe technical indicators of a stock and make good financial decisions.
-
-#### For prediction we are using 2 models ARIMA and LSTM to predict KSE ( 100, 30, and All ) Index.
-
-#### Technical Analysis of historical data using Techincal indicators and Financial Portfolio Optmization using Efficient Frontier Markowitz.
-
-#### Model Results and Accuracies are in relevant Jupyter Notebook.
-
-#### We have a full working Application in Django that implements our whole project in BackEnd. 
